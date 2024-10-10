@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "neetrac-sharepoint-spfx-client-side-solution",
+    "id": "a00a3aec-9904-4545-8325-8350f61cca1e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/neetrac-sharepoint-spfx.sppkg"
+  }
+}

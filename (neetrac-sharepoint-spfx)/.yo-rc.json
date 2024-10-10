@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.11.0",
+    "libraryName": "neetrac-sharepoint-spfx",
+    "libraryId": "a00a3aec-9904-4545-8325-8350f61cca1e",
+    "environment": "onprem",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "webpart"
+  }
+}
